@@ -9,5 +9,5 @@ screen.
  - Check `repo`.
  - Click the green button on the bottom of page as `Generate token`.
  - Make sure to copy the token like `ghp_UyAV....` and to paste it to your
- this line is lesson2.
+ this line is added in lesson2
 memo.
